@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/get-file-from-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function to download a file from a specified URL",
   "keywords": [
     "utilities",
