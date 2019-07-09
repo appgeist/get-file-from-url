@@ -1,0 +1,31 @@
+{
+  "name": "@appgeist/get-file-from-url",
+  "version": "1.0.0",
+  "description": "Utility function to download a file from a specified URL",
+  "keywords": [
+    "utilities",
+    "file",
+    "download",
+    "promise"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/appgeist/get-file-from-url",
+  "bugs": {
+    "url": "https://github.com/appgeist/get-file-from-url/issues"
+  },
+  "author": {
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com",
+    "url": "https://github.com/icflorescu"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@appgeist/eslint-config-base": "^1.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
