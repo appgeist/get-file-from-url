@@ -4,6 +4,7 @@
 [![License][license-image]][license-url]
 
 Utility function to download a file from a specified URL.
+
 Returns a Promise that fulfills with the local file name upon download completion.
 
 ## Usage
@@ -11,10 +12,12 @@ Returns a Promise that fulfills with the local file name upon download completio
 ```js
 const getFileFromUrl = require("@appgeist/get-file-from-url");
 
-await getFileFromUrl({
+const localFileName = await getFileFromUrl({
   url: "https://example.com/catz-picture.jpg",
   file: "/path/to/local-catz-picture.jpg"
 });
+
+console.log(localFileName); // -> "/path/to/local-catz-picture.jpg"
 ```
 
 [npm-image]: https://img.shields.io/npm/v/@appgeist/get-file-from-url.svg?style=flat-square
