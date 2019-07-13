@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/get-file-from-url",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Utility function to download a file from a specified URL",
   "keywords": [
     "utilities",
@@ -20,6 +20,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@appgeist/eslint-config-base": "^1.0.3"
+    "@appgeist/eslint-config-base": "^1.0.5"
   }
 }
