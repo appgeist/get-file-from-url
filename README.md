@@ -20,6 +20,10 @@ const localFileName = await getFileFromUrl({
 console.log(localFileName); // -> "/path/to/local-catz-picture.jpg"
 ```
 
+## License
+
+The [ISC License](LICENSE).
+
 [npm-image]: https://img.shields.io/npm/v/@appgeist/get-file-from-url.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@appgeist/get-file-from-url
 [license-image]: https://img.shields.io/npm/l/@appgeist/get-file-from-url.svg?style=flat-square
