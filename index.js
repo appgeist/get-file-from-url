@@ -1,7 +1,7 @@
 const { createWriteStream, unlinkSync } = require('fs');
 
 /**
- * Download a file from a specified URL
+ * Download a file from a specified URL and return a Promise when done
  *
  * @param {Object} options
  * @param {string} options.url URL to download from

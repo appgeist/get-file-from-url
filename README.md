@@ -3,9 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 
-Utility function to download a file from a specified URL.
-
-Returns a Promise that fulfills with the local file name upon download completion.
+Utility function to download a file from a specified URL. Returns a Promise that fulfills with the local file name upon download completion.
 
 ## Usage
 
