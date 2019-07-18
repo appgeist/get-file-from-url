@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/get-file-from-url",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Utility function to download a file from a specified URL and return a Promise when done",
   "keywords": [
     "utilities",
