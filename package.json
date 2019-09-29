@@ -20,6 +20,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@appgeist/eslint-config-base": "^1.2.0"
+    "@appgeist/eslint-config-base": "^1.2.1"
   }
 }
